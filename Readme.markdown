@@ -13,3 +13,7 @@ python yugioh_cards_crawler.py
 Note that this proguram takes about 2 hour for Mac with default setting.
 
 Default output filename is "cards.json".
+
+Requrement:
+
+- tqdm
