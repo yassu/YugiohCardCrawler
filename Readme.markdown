@@ -1,7 +1,7 @@
 yugioh_cards_crowler
 ======================
 
-This Project provides the library for getting yugioh cards infomation from
+This Project get json file for getting yugioh cards infomation from
 [YGOHub API](https://ygohub.docs.apiary.io/).
 
 To obtain Yugioh Card Informations for
